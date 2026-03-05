@@ -2,6 +2,10 @@
 
 A full-stack AI-powered job board application built with the MERN stack. Features role-based authentication, complete job management, and three AI-powered features using Groq's Llama 3 model.
 
+## Live Demo
+https://ai-job-board.vercel.app/
+
+
 ## Tech Stack
 
 **Frontend:**
